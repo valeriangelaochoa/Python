@@ -1,5 +1,4 @@
 print("Nombres impars entre 1 i 200: ")
-Nombre = 2
-while Nombre <= 200:
-    print(Nombre)
-    Nombre += 2
+for v in range(1,200):
+    if v %2 == 0:
+        print(v)
