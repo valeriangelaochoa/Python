@@ -1,7 +1,7 @@
-Notes = [10,11,12,13,14,15,16,17,18,19,-20]
+Notes = [-5,-4,-3,-2,-1,0,1,2,3,4]
 for Nombre in Notes:
     print(Notes)
-if min(Notes) == 10:
+if min(Notes) < 10:
     print("Hi habia almenys un nombre negatiu")
 else:
     print("No hi ha cap nombre negatiu")
