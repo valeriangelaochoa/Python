@@ -83,3 +83,17 @@ def nombre_negatiu():
     else:
         print("No hi ha cap nombre negatiu")
 
+def main():
+    while True:
+        print("Menu")
+        print("1. Calcul de l'area d'un quadrat: ")
+        print("2. Calculs de dos nombres enters: ")
+        print("3. Crea una frase amb tres paraules: ")
+        print("4. Suma de dos numeros: ")
+        print("5. Ets major d'edat o no: ")
+        print("6. Quin es el nombre més gran: ")
+        print("7. Es positiu o negatiu: ")
+        print("8. Nombres impars del 1 al 200: ")
+        print("9. Sequencia de notes: ")
+        print("10. Hi ha un nombre negatiu: ")
+
