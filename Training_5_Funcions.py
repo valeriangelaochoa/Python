@@ -97,3 +97,32 @@ def main():
         print("9. Sequencia de notes: ")
         print("10. Hi ha un nombre negatiu: ")
 
+        opcio = input("Eligeix una opció: ").upper()
+
+        if opcio == "1":
+            area_costat()
+        elif opcio == "2":
+            nombres_enters()
+        elif opcio == "3":
+            crear_frase()
+        elif opcio == "4":
+            suma_nombres()
+        elif opcio == "5":
+            majors_edat()
+        elif opcio == "6":
+            nombre_gran()
+        elif opcio == "7":
+            positiu_o_negatiu()
+        elif opcio == "8":
+            nombre_impars()
+        elif opcio == "9":
+            nombre_10()
+        elif opcio == "10":
+            nombre_negatiu()
+        elif opcio == "Q":
+            print("Tancament del programa....")
+            break
+        else:
+            print("No es reconeix el valor posat. Tornar a intentar.\n")
+if __name__=="__main__":
+    main()
