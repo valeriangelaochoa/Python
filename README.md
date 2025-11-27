@@ -1,6 +1,6 @@
 ## Programaris creats
 # Calcul de l'àrea d'un quadrat
-Amb aquest programa al posar la mida d'un costat  per teclat ens retorna el calcul de l'area com a resposta.
+Amb aquest programa al posar la mida d'un costat  per teclat ens retorna el calcul de l'area com a resposta
 
 # Suma, resta, multiplicació i divisió
 En aquest programa al posar dos nombres enters, el programari ens donara els calculs de la suma, la resta, multiplicació i divisió d'aquells nombres com a resposta.
